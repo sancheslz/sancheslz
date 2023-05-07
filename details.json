@@ -1,0 +1,42 @@
+{
+  "skills": [
+    "🐍 Python",
+    "💎 Ruby",
+    "👥 Gestão de Equipes",
+    "🚀 Inovação"
+  ],
+  "interests": [
+    "🌟 Star Wars",
+    "💰 Finanças",
+    "📈 Economia",
+    "🧠 Psicologia",
+    "🤔 Filosofia"
+  ],
+  "education": [
+    {
+      "name": "Administração de Empresas", 
+      "institution": "Faal Limeira",
+      "year": 2012
+    }, {
+      "name": "Psicopedagogia Institucional", 
+      "institution": "Uniararas",
+      "year": 2014
+    }, {
+      "name": "MBA em Gestão de Projetos", 
+      "institution": "USP",
+      "year": 2016
+    }, {
+      "name": "Análise de Sistemas", 
+      "institution": "Anhanguera",
+      "year": 2022
+    }, {
+      "name": "Finanças e Análise de Risco", 
+      "institution": "Anhanguera",
+      "year": 2023
+    }, {
+      "name": "Inteligência Artificial e Machine Learning", 
+      "institution": "Anhanguera",
+      "year": 2023
+    }
+  ]
+}
